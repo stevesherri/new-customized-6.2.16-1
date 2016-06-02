@@ -52,3 +52,46 @@
 .img-rounded-bottom{
 	border-radius:0 0 20px 20px; 
 }
+
+.navbar{
+	margin-bottom:0;
+	padding-top:7px;
+}
+
+#offer-contact{
+	color:#1c5ba8;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.btn-lg{
+	margin:10px 0;
+	font-style:italic;
+	font-weight:bold;
+	text-shadow:2px 2px 2px #000000;
+}
+
+hr{
+	margin:5px 0;
+}
+
+.mybreadcrumb a{
+	background-color:none;	
+	color:#ffffff;
+	
+}
+
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 767px) {
+	#offer-contact{font-size:1.5em; text-align:center;}
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+	h1{font-size:0.5em; text-align:center;}
+}
+/* tablets/desktops and up ----------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+/* large desktops and up ----------- */
+@media screen and (min-width: 1200px) {
+}
