@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".csscomb.json" server="builder.customizedplayingcards.com" local="131093444583451252" remote="131093407200000000" Dst="2" />
+<file name=".csslintrc" server="builder.customizedplayingcards.com" local="131093444585013374" remote="131093407200000000" Dst="2" />
+<file name="badges.less" server="builder.customizedplayingcards.com" local="131093444585326258" remote="131093407200000000" Dst="2" />
+<file name="alerts.less" server="builder.customizedplayingcards.com" local="131093444585482507" remote="131093407200000000" Dst="2" />
+<file name="bootstrap.less" server="builder.customizedplayingcards.com" local="131093444586576259" remote="131093407200000000" Dst="2" />
+<file name="breadcrumbs.less" server="builder.customizedplayingcards.com" local="131093444587201260" remote="131093407200000000" Dst="2" />
+<file name="button-groups.less" server="builder.customizedplayingcards.com" local="131093444587513024" remote="131093407200000000" Dst="2" />
+<file name="buttons.less" server="builder.customizedplayingcards.com" local="131093444588451261" remote="131093407200000000" Dst="2" />
+<file name="carousel.less" server="builder.customizedplayingcards.com" local="131093444589076266" remote="131093407200000000" Dst="2" />
+<file name="close.less" server="builder.customizedplayingcards.com" local="131093444589388764" remote="131093407200000000" Dst="2" />
+<file name="code.less" server="builder.customizedplayingcards.com" local="131093444590482419" remote="131093407200000000" Dst="2" />
+<file name="component-animations.less" server="builder.customizedplayingcards.com" local="131093444590951268" remote="131093407200000000" Dst="2" />
+<file name="dropdowns.less" server="builder.customizedplayingcards.com" local="131093444591576269" remote="131093407200000000" Dst="2" />
+<file name="forms.less" server="builder.customizedplayingcards.com" local="131093444592201269" remote="131093407200000000" Dst="2" />
+<file name="glyphicons.less" server="builder.customizedplayingcards.com" local="131093444593295021" remote="131093407200000000" Dst="2" />
+<file name="grid.less" server="builder.customizedplayingcards.com" local="131093444593763059" remote="131093407200000000" Dst="2" />
+<file name="input-groups.less" server="builder.customizedplayingcards.com" local="131093444594232197" remote="131093407200000000" Dst="2" />
+<file name="jumbotron.less" server="builder.customizedplayingcards.com" local="131093444595638779" remote="131093407200000000" Dst="2" />
+<file name="labels.less" server="builder.customizedplayingcards.com" local="131093444595794618" remote="131093407200000000" Dst="2" />
+<file name="list-group.less" server="builder.customizedplayingcards.com" local="131093444596107531" remote="131093407200000000" Dst="2" />
+<file name="media.less" server="builder.customizedplayingcards.com" local="131093444597513590" remote="131093407200000000" Dst="2" />
+<file name="mixins.less" server="builder.customizedplayingcards.com" local="131093444616888817" remote="131093407200000000" Dst="2" />
+<file name="modals.less" server="builder.customizedplayingcards.com" local="131093444619231822" remote="131093407200000000" Dst="2" />
+<file name="navbar.less" server="builder.customizedplayingcards.com" local="131093444620795078" remote="131093407200000000" Dst="2" />
+<file name="navs.less" server="builder.customizedplayingcards.com" local="131093444621420079" remote="131093407200000000" Dst="2" />
+<file name="normalize.less" server="builder.customizedplayingcards.com" local="131093444622357582" remote="131093407200000000" Dst="2" />
+<file name="pager.less" server="builder.customizedplayingcards.com" local="131093444622826060" remote="131093407200000000" Dst="2" />
+<file name="pagination.less" server="builder.customizedplayingcards.com" local="131093444623295085" remote="131093407200000000" Dst="2" />
+<file name="panels.less" server="builder.customizedplayingcards.com" local="131093444624076330" remote="131093407200000000" Dst="2" />
+<file name="popovers.less" server="builder.customizedplayingcards.com" local="131093444624545082" remote="131093407200000000" Dst="2" />
+<file name="print.less" server="builder.customizedplayingcards.com" local="131093444625481993" remote="131093407200000000" Dst="2" />
+<file name="progress-bars.less" server="builder.customizedplayingcards.com" local="131093444625951014" remote="131093407200000000" Dst="2" />
+<file name="responsive-embed.less" server="builder.customizedplayingcards.com" local="131093444626576342" remote="131093407200000000" Dst="2" />
+<file name="responsive-utilities.less" server="builder.customizedplayingcards.com" local="131093444627513840" remote="131093407200000000" Dst="2" />
+<file name="scaffolding.less" server="builder.customizedplayingcards.com" local="131093444627982494" remote="131093407200000000" Dst="2" />
+<file name="tables.less" server="builder.customizedplayingcards.com" local="131093444628138132" remote="131093407200000000" Dst="2" />
+<file name="theme.less" server="builder.customizedplayingcards.com" local="131093444629545096" remote="131093407200000000" Dst="2" />
+<file name="thumbnails.less" server="builder.customizedplayingcards.com" local="131093444629857598" remote="131093407200000000" Dst="2" />
+<file name="tooltip.less" server="builder.customizedplayingcards.com" local="131093444630169871" remote="131093407200000000" Dst="2" />
+<file name="type.less" server="builder.customizedplayingcards.com" local="131093444631732409" remote="131093407200000000" Dst="2" />
+<file name="utilities.less" server="builder.customizedplayingcards.com" local="131093444631888101" remote="131093407200000000" Dst="2" />
+<file name="variables.less" server="builder.customizedplayingcards.com" local="131093444632356852" remote="131093407200000000" Dst="2" />
+<file name="wells.less" server="builder.customizedplayingcards.com" local="131093444633763459" remote="131093407200000000" Dst="2" />
+</dwsync>

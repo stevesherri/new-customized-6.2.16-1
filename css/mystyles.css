@@ -1,0 +1,54 @@
+.phone_bar{
+	background-color:#1c5ba8;
+	color:#ffffff;
+	padding:5px;
+	text-align:right;		
+}
+
+.navbar{
+	font-size:1.4em;
+	padding-top:10px;
+	color:#000000;
+}
+
+.slideshow{
+	
+	background-color:#3074ba;
+	background-image: radial-gradient(ellipse farthest-corner at center top , #3074BA 50%, #A3D0EC 100%);	
+	clear:both;
+}
+
+.get_quote{
+	font-size:1.2em;
+	font-weight:bold;
+	font-style:italic;
+	margin:10px 0 10px 50px;;
+	color:#ffffff;
+	background-color:#dd0000;
+}
+
+.get_quote:hover{
+	background-color:#660000;
+	color:#ffffff;
+}
+
+.offer{
+	color:#1c5ba8;
+	font-weight:bold;
+	font-style:italic;
+	text-align:right;
+	padding-right:110px;	
+}
+
+.featured{
+	margin-bottom:25px;
+	border:2px solid #ffffff;
+	border-top:none;
+	border-radius:0 0 20px 20px; 
+	box-shadow:3px 3px 3px #000000;
+
+}
+
+.img-rounded-bottom{
+	border-radius:0 0 20px 20px; 
+}

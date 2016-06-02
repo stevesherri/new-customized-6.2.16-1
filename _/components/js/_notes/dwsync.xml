@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="affix.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="alert.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="bootstrap.js" server="builder.customizedplayingcards.com" local="131092608338870639" remote="131092578000000000" Dst="2" />
-<file name="button.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="carousel.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="collapse.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="dropdown.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="modal.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="popover.js" server="builder.customizedplayingcards.com" local="131090318200000000" remote="131092578000000000" Dst="2" />
-<file name="jquery.js" server="builder.customizedplayingcards.com" local="131092583065379866" remote="131092578000000000" Dst="2" />
+<file name="_myscript-dist.js" server="builder.customizedplayingcards.com" local="131093444232668340" remote="131093406600000000" Dst="2" />
+<file name="_myscript-dist.js.map" server="builder.customizedplayingcards.com" local="131093444233136373" remote="131093406600000000" Dst="2" />
+<file name="_myscript.js" server="builder.customizedplayingcards.com" local="131093444233762092" remote="131093406600000000" Dst="2" />
+<file name="affix.js" server="builder.customizedplayingcards.com" local="131093444234387098" remote="131093406600000000" Dst="2" />
+<file name="alert.js" server="builder.customizedplayingcards.com" local="131093444235637094" remote="131093406600000000" Dst="2" />
+<file name="bootstrap.js" server="builder.customizedplayingcards.com" local="131093444235949206" remote="131093406600000000" Dst="2" />
+<file name="button.js" server="builder.customizedplayingcards.com" local="131093444236262060" remote="131093406600000000" Dst="2" />
+<file name="carousel.js" server="builder.customizedplayingcards.com" local="131093444237668354" remote="131093406600000000" Dst="2" />
+<file name="collapse.js" server="builder.customizedplayingcards.com" local="131093444239230442" remote="131093406600000000" Dst="2" />
+<file name="dropdown.js" server="builder.customizedplayingcards.com" local="131093444239855159" remote="131093406600000000" Dst="2" />
+<file name="modal.js" server="builder.customizedplayingcards.com" local="131093444241262108" remote="131093406600000000" Dst="2" />
+<file name="popover.js" server="builder.customizedplayingcards.com" local="131093444241886385" remote="131093406600000000" Dst="2" />
+<file name="scrollspy.js" server="builder.customizedplayingcards.com" local="131093444243761392" remote="131093406600000000" Dst="2" />
+<file name="prepros.cfg" server="builder.customizedplayingcards.com" local="131093444244386358" remote="131093406600000000" Dst="2" />
+<file name="jquery.js" server="builder.customizedplayingcards.com" local="131093444244386358" remote="131093406600000000" Dst="2" />
+<file name="tab.js" server="builder.customizedplayingcards.com" local="131093444246105673" remote="131093406600000000" Dst="2" />
+<file name="transition.js" server="builder.customizedplayingcards.com" local="131093444246574425" remote="131093406600000000" Dst="2" />
+<file name="tooltip.js" server="builder.customizedplayingcards.com" local="131093444247199616" remote="131093406600000000" Dst="2" />
 </dwsync>
